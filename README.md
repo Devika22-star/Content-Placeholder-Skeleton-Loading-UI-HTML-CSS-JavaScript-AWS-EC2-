@@ -1,0 +1,2 @@
+# Content-Placeholder-Skeleton-Loading-UI-HTML-CSS-JavaScript-AWS-EC2-
+Developed a skeleton loading UI using HTML, CSS, and JavaScript to improve user experience during content loading. Designed animated placeholder elements (image blocks and text bars) using CSS keyframe animations. Implemented JavaScript logic to simulate loading delay and dynamically switch from skeleton screen to actual content. 
