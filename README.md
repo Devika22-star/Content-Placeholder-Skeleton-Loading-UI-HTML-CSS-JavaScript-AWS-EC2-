@@ -67,6 +67,3 @@ Use Case
 - Enhances user experience during slow network/data loading
 
 
-👩‍💻 Author
-
-Devika M
